@@ -6,12 +6,12 @@ ANN Implementation
 
 ### creating envs
 
-'''bash
+```bash
 conda create --prefix ./envs python=3.7 -y
-'''
+```
 
 ### activate envs
 
-'''bash
+```bash
 conda.bat activate ./envs
-'''
+```
